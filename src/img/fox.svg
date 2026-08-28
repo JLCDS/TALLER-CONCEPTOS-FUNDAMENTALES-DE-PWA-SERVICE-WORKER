@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Orejas -->
+  <polygon points="55,70 30,10 85,55" fill="#e8791d"/>
+  <polygon points="145,70 170,10 115,55" fill="#e8791d"/>
+  <polygon points="58,62 45,30 75,52" fill="#3a2317"/>
+  <polygon points="142,62 155,30 125,52" fill="#3a2317"/>
+  <!-- Cabeza -->
+  <path d="M100,50 C150,50 170,90 160,130 C150,165 120,180 100,180 C80,180 50,165 40,130 C30,90 50,50 100,50 Z" fill="#f2a541"/>
+  <!-- Hocico -->
+  <path d="M100,110 C130,110 145,135 130,160 C118,178 82,178 70,160 C55,135 70,110 100,110 Z" fill="#ffffff"/>
+  <!-- Nariz -->
+  <ellipse cx="100" cy="150" rx="8" ry="6" fill="#2b1a10"/>
+  <!-- Ojos -->
+  <ellipse cx="75" cy="105" rx="7" ry="9" fill="#2b1a10"/>
+  <ellipse cx="125" cy="105" rx="7" ry="9" fill="#2b1a10"/>
+</svg>
