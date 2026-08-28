@@ -21,6 +21,6 @@ Este proyecto corresponde al taller práctico sobre **Service Workers**, desarro
 
 ## Integrantes
 
-- [Andres Barrera]
-- [Sebastian Arias]
-- [Juan López]
+- Andres Barrera
+- Sebastian Arias
+- Juan López

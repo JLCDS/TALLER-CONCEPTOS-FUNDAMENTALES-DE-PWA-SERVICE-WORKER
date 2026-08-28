@@ -1,4 +1,4 @@
-// Punto 1: 4 animales disponibles (los 2 originales + los 2 nuevos SVG).
+
 const ANIMALS = ['dog.svg', 'cat.svg', 'fox.svg', 'rabbit.svg'];
 let current = 'dog.svg';
 
@@ -8,7 +8,7 @@ navigator.serviceWorker.register('sw.js')
     .then(reg => {
         console.log('SW registered!', reg);
 
-        // Se dispara cuando el navegador encuentra una nueva versión de sw.js
+        
         reg.addEventListener('updatefound', () => {
             const nuevoSW = reg.installing;
             console.log('[Página] Nuevo Service Worker encontrado, instalando...');
